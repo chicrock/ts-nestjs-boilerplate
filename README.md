@@ -1,14 +1,8 @@
-# NestJS + Typescript Boilerplate
+# Try NestJS
 
 ## Install
 
 ```
-# Install nestjs cli
-npm i -g @nestjs/cli
-
-# Create new project
-git clone https://github.com/nestjs/typescript-starter.git [project]
-cd [project]
-npm install
-npm run start
+# From
+git clone https://github.com/chicrock/ts-nestjs-boilerplate.git try-nest
 ```
