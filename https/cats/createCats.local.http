@@ -1,0 +1,18 @@
+### Without Optional
+POST http://localhost:3000/cats
+Content-Type: application/json
+
+{
+  "name": "WhatThe",
+  "age": "12"
+}
+
+### With Optional
+POST http://localhost:3000/cats
+Content-Type: application/json
+
+{
+  "name": "WhatThe",
+  "age": "23",
+  "breed": "Breed?"
+}
